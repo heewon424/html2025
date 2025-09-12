@@ -18,10 +18,10 @@
     </thead>
     <tbody>
         <tr>
-            <td>홍길동</td>
-            <td>컴퓨터 공학과</td>
-            <td>20241234</td>
-            <td>gdhong@example.com</td>
+            <td>송희원</td>
+            <td>멀티미디어학과</td>
+            <td>22100026</td>
+            <td>hwfred@naver.com / hwfred424@gmail.com</td>
         </tr>
     </tbody>
 </table>
